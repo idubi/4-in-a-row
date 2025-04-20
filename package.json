@@ -9,7 +9,7 @@
     "preview": "vite preview",
     "lint": "eslint . --ext ts,tsx",
     "format": "prettier --write .",
-    "start": "vite"
+    "start": "vite --host"
   },
   "dependencies": {
     "react": "^18.2.0",
